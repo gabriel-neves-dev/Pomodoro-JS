@@ -30,7 +30,13 @@ export function PomodoroTimer(props: Props): JSX.Element {
                 <Button text={'teste'} onClick={() => {console.log(123)}} />
                 <Button text={'teste'} onClick={() => {console.log(123)}} />
                 <Button text={'teste'} onClick={() => {console.log(123)}} />
+            </div>
 
+            <div className="details">
+                <p>Testando: sdkmjaskodj aklsdjkalsjdak sdhka hdklsj dlaksjd</p>
+                <p>Testando: sdkmjaskodj aklsdjkalsjdak sdhka hdklsj dlaksjd</p>
+                <p>Testando: sdkmjaskodj aklsdjkalsjdak sdhka hdklsj dlaksjd</p>
+                <p>Testando: sdkmjaskodj aklsdjkalsjdak sdhka hdklsj dlaksjd</p>
             </div>
         </div>
     )
